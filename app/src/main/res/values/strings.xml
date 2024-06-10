@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">print_from_image</string>
+    <string name="process_name">bluetoothPrintReq</string>
+</resources>
